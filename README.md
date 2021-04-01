@@ -9,6 +9,9 @@
 
 친화력과 소통에 강하고, 문제해결 과정을 기술 블로그에 꾸준히 정리하면서 성장하고 있습니다.
 
+- Pair Review (Notion) : bit.ly/3vL3oTo
+- 자기소개 페이지 (Notion) : bit.ly/2QX9ro9
+
 <a href="https://github.com/seolleung2"><img src="https://img.shields.io/badge/Github-seolleung2-blue?style=flat&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"></a> <a href="https://dev-seolleung2.netlify.app"><img src="https://img.shields.io/badge/Blog-seolleung2-orange?logo=Blogger"></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolleung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=seolleung2++hits&edge_flat=false)](https://hits.seeyoufarm.com)
