@@ -9,6 +9,9 @@
 
 친화력과 소통에 강하고, 문제해결 과정을 기술 블로그에 꾸준히 정리하면서 성장하고 있습니다.
 
+- 파이널 프로젝트 기획서 (Notion) : https://bit.ly/3bTllar
+- 파이널 프로젝트 배포 링크 : https://naganda.tk
+- 파이널 프로젝트 깃허브 Repo : https://github.com/codestates/naganda-client
 - Pair Review (Notion) : https://bit.ly/3vL3oTo
 - 자기소개 페이지 (Notion) : https://bit.ly/2QX9ro9
 
