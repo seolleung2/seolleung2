@@ -13,7 +13,6 @@
 - 파이널 프로젝트 배포 링크 : https://naganda.tk
 - 파이널 프로젝트 깃허브 Repo : https://github.com/codestates/naganda-client
 - Pair Review (Notion) : https://bit.ly/3vL3oTo
-- 자기소개 페이지 (Notion) : https://bit.ly/2QX9ro9
 
 <a href="https://github.com/seolleung2"><img src="https://img.shields.io/badge/Github-seolleung2-blue?style=flat&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"></a> <a href="https://dev-seolleung2.netlify.app"><img src="https://img.shields.io/badge/Blog-seolleung2-orange?logo=Blogger"></a>
 
