@@ -18,7 +18,7 @@
 - 파이널 프로젝트 깃허브 Repo : https://github.com/codestates/naganda-client
 - Pair Review (Notion) : https://bit.ly/3vL3oTo
 
-<a href="https://github.com/seolleung2"><img src="https://img.shields.io/badge/Github-seolleung2-blue?style=flat&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"></a> <a href="https://dev-seolleung2.netlify.app"><img src="https://img.shields.io/badge/Blog-seolleung2-orange?logo=Blogger"></a> <a href="https://www.instagram.com/dotorijung“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dotorijung"/></a>
+<a href="https://github.com/seolleung2"><img src="https://img.shields.io/badge/Github-seolleung2-blue?style=flat&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"></a> <a href="https://dev-seolleung2.netlify.app"><img src="https://img.shields.io/badge/Blog-seolleung2-orange?logo=Blogger"></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolleung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=seolleung2++hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
