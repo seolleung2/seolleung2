@@ -12,10 +12,7 @@
 
 프론트엔드 신입 개발자로 첫 발걸음을 떼던 초반, 사용자가 창고 정보를 조회하고 문의를 남겨 영업 사원들과 소통을 할 수 있는 서비스의 핵심 기능 중 하나인 창고 지도 개발 (Kakao map API 적용) 을 담당했고 현재 서비스 중에 있습니다. 이후 영업 사원들의 고객 관리 CRM 개발에 참여했으며 현재는 창고 관리 매니지먼트 시스템을 개발 및 개선 중에 있습니다.
  
-
-- 파이널 프로젝트 기획서 (Notion) : https://bit.ly/3bTllar
-- 파이널 프로젝트 배포 링크 : https://naganda.tk
-- 파이널 프로젝트 깃허브 Repo : https://github.com/codestates/naganda-client
+- blog : https://dev-seolleung2.netlify.app/ (현재 Next.js 로 정적 블로그 개발 작업중)
 - Pair Review (Notion) : https://bit.ly/3vL3oTo
 
 ![DotoriJung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seolleung2&layout=compact&theme=dracula)
