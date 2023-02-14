@@ -14,7 +14,7 @@
 
 카카오에서 제공하는 API 와 지도에서 일어나야 하는 다양한 사용자 이벤트를 처리하기 위해 팀원들과 소통을 정말 많이 했고 어려움도 겪었지만 극복해 보았던 프로젝트 였습니다. 제가 담당했던 "지도로 창고찾기" 는 현재 서비스 중에 있습니다. 이후 영업 사원들의 고객 관리를 위한 CRM 개발에 참여했으며, 현재는 창고 현장의 사용자들이 즉각적으로 사용할 수 있는 창고 관리 매니지먼트 시스템 (WMS) 서비스에 입고, 출고, 사용자 관리 카테고리 담당으로 2차 MVP 개발을 완료하였습니다.
  
-- blog : [dev-seolleung2.netlify.app](https://dev-seolleung2.netlify.app/) (현재 Next.js 로 정적 블로그 개발 작업중)
+- 기술 블로그 : [dev-seolleung2.netlify.app](https://dev-seolleung2.netlify.app/)
 - Pair Review (Notion) : https://bit.ly/3vL3oTo
 
 ![DotoriJung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seolleung2&layout=compact&theme=dracula)
