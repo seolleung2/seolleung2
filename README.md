@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dotori%20Jung&fontSize=90)
-
 # 🌰안녕하세요!
 
 안녕하세요. 물류 서비스 스타트업에서 2년차의 프론트엔드 개발 경험을 가지고 있는 정광묵 입니다.
