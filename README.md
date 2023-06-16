@@ -11,5 +11,3 @@
 
  
 - 기술 블로그 : [도토리정의 DevLog](https://dotorimook-log.vercel.app/)
-
-<a href="https://github.com/seolleung2"><img src="https://img.shields.io/badge/Github-seolleung2-blue?style=flat&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"></a> <a href="https://dev-seolleung2.netlify.app"><img src="https://img.shields.io/badge/Blog-seolleung2-orange?logo=Blogger"></a>
