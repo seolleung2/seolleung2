@@ -20,7 +20,7 @@ WMS 개발에서는 기본적인 CRUD 의 API 들을 요청 및 응답을 처리
 개발에 대한 열정을 가진 좋은 동료들 틈에 뛰어들어서 나의 앎을 공유하고 열정적으로 소통하며 문제해결 과정을 즐기면서 더더욱 크게 발전하고자 합니다.
 
  
-- 기술 블로그 : [dev-seolleung2.netlify.app](https://dev-seolleung2.netlify.app/)
+- 기술 블로그 : [도토리정의 DevLog](https://dotorimook-log.vercel.app/)
 - Pair Review (Notion) : https://bit.ly/3vL3oTo
 
 ![DotoriJung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seolleung2&layout=compact&theme=dracula)
