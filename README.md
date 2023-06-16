@@ -12,12 +12,4 @@
  
 - 기술 블로그 : [도토리정의 DevLog](https://dotorimook-log.vercel.app/)
 
-![DotoriJung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seolleung2&layout=compact&theme=dracula)
-
 <a href="https://github.com/seolleung2"><img src="https://img.shields.io/badge/Github-seolleung2-blue?style=flat&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"></a> <a href="https://dev-seolleung2.netlify.app"><img src="https://img.shields.io/badge/Blog-seolleung2-orange?logo=Blogger"></a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolleung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=seolleung2++hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Seolleung2's github stats](https://github-readme-stats.vercel.app/api?username=seolleung2&show_icons=true&theme=radical)
-
-
